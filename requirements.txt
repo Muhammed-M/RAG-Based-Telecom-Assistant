@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+sentence-transformers
+faiss-cpu
+groq
+requests
+pandas
+python-dotenv
+pydantic
+rank_bm25

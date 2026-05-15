@@ -1,0 +1,15 @@
+# Virtual environment
+rag_env/
+
+# Secrets (API keys)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Unrelated files
+Hybrid Retrievalf.pdf
+.vscode/
+Lecture_sample_code/
+data/
